@@ -1,7 +1,4 @@
-# Sorting and Counting
-The following are some exercises in sorting and counting algorithms.  You should use
-Python dictionaries to solve the problems.
-
+#Assignment from Intro to Computer Science 2020
 
 ## Crayonnibalism
 The local kindergarten has a crayonnibal on their hands.  Investigators are
